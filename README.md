@@ -7,6 +7,7 @@ Intuitive Interface: User-friendly design for seamless experience.
 Precise Predictions: Utilizes a robust Linear Regression model for accurate salary estimation.
 Effortless Usage: Easy-to-navigate GUI makes salary prediction a breeze.
 Model Confidence: Pre-trained model ensures reliability and consistency.
+
 Usage:
 Clone/download the repository.
 Install dependencies using requirements.txt.
@@ -17,6 +18,7 @@ Copy code
 python salary_predictor.py
 Input experience in years.
 Click "Predict Salary" to get accurate salary estimation.
+
 Contributions Welcome!
 Enhance GUI: Improve aesthetics and user interaction.
 Refine Model: Enhance predictive accuracy and performance.
