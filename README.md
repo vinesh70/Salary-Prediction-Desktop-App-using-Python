@@ -5,6 +5,8 @@ Predict salaries effortlessly with this Python desktop application powered by sk
 ## Features:
 Intuitive Interface: User-friendly design for seamless experience.
 
+Data Split: 80% of data for training, 20% for testing to ensure robustness.
+
 Precise Predictions: Utilizes a robust Linear Regression model for accurate salary estimation.
 
 Effortless Usage: Easy-to-navigate GUI makes salary prediction a breeze.
