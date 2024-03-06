@@ -1,5 +1,5 @@
 
-Salary Predictor Desktop App
+# Salary Predictor Desktop App
 Predict salaries effortlessly with this Python desktop application powered by sklearn's LinearRegression and Tkinter GUI. Simply input experience, get accurate predictions! 📈💼
 
 Features:
