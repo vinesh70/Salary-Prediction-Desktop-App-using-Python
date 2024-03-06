@@ -15,15 +15,7 @@ Usage:
 
 Clone/download the repository.
 
-Install dependencies using requirements.txt.
-
-Copy code
-
-pip install -r requirements.txt
-
-Run the app using salary_predictor.py.
-
-Copy code
+Run the app using Command :- python Salary Predictor App.py.
 
 python salary_predictor.py
 
